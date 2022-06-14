@@ -1,0 +1,17 @@
+.grid {
+    max-width: 800px;
+    margin: 100px auto 0 auto;
+    border: 2px solid #b113b1;
+    border-radius: 5px;
+    padding: 20px;
+    gap: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+}
+
+.item {
+    padding: 10px;
+    border: 2px dashed #dda0dd;
+    border-radius: 5px;
+}
+

@@ -1,0 +1,8 @@
+.grid {
+    display: grid;
+
+    grid-template-columns: 200px 200px 200px;
+    /* grid-template-rows: 70px 70px; */
+
+    /* grid-template: 70px 70px / 200px 200px 200px; */
+}
